@@ -1,5 +1,8 @@
 # Spell Checker Project
 
+![Alphabet](https://i.pinimg.com/736x/59/ac/ea/59acea51544ff0b69586f6e12d0b5327.jpg)
+
+
 ## **Overview**
 
 This project is a fast and efficient spell checker that I developed. It includes both the main program logic and the dictionary management functions. The spell checker uses a **hash table** to store dictionary words for quick lookups and checks the spelling of words in a text file, reporting any misspellings. The program is optimized for real-world performance and ensures memory safety.
